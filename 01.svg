@@ -7736,9 +7736,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.99999999"
-     inkscape:cx="423.41882"
-     inkscape:cy="625.23894"
+     inkscape:zoom="1.4142135"
+     inkscape:cx="422.51646"
+     inkscape:cy="204.43477"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -24504,7 +24504,7 @@
       <path
          id="path29526"
          d="m 189.02344,96.132812 49.88281,0"
-         style="fill:#ff0000;stroke:#000000;stroke-width:4.05000019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         style="fill:#ff0000;stroke:#ff0000;stroke-width:4.05000019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
          inkscape:connector-curvature="0"
          transform="matrix(0.1,0,0,-0.1,0,21)" />
       <g
@@ -24636,7 +24636,7 @@
         </g>
         <path
            inkscape:connector-curvature="0"
-           style="fill:#ff0000;stroke:#000000;stroke-width:4.05000019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+           style="fill:#ff0000;stroke:#ff0000;stroke-width:4.05000019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
            d="m 220.97656,101.17188 202.61719,0"
            transform="matrix(0.1,0,0,-0.1,0,22)"
            id="path29666" />
@@ -24858,7 +24858,7 @@
         </g>
         <path
            inkscape:connector-curvature="0"
-           style="fill:#ff0000;stroke:#000000;stroke-width:4.05000019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+           style="fill:#ff0000;stroke:#ff0000;stroke-width:4.05000019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
            d="m 222.1875,102.22656 78.82812,0"
            transform="matrix(0.1,0,0,-0.1,0,22)"
            id="path29896" />
@@ -25010,7 +25010,7 @@
       </g>
     </g>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 23.5113,784.72229 2.474874,-18.73833"
        id="path7931"
        inkscape:connector-curvature="0" />
@@ -25060,7 +25060,7 @@
          style="fill:#ff0000" />
     </g>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 135.94128,786.31328 c 0,0 9.72272,-9.19239 0.88388,-30.05204"
        id="path7954"
        inkscape:connector-curvature="0" />
@@ -25351,7 +25351,7 @@
          inkscape:connector-curvature="0"
          id="path8177"
          d="m 156.44738,788.78815 c 0,0 -6.8943,-9.89949 2.65165,-15.73312"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <g
        id="g8438">
@@ -25528,7 +25528,7 @@
          inkscape:connector-curvature="0"
          id="path8432"
          d="m 363.80644,908.81953 c 0,0 18.91511,-12.55115 1.59099,-25.45585"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <g
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="text8434">
@@ -25591,7 +25591,7 @@
       </g>
     </g>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 62.57895,936.92702 42.24963,962.02931"
        id="path8481"
        inkscape:connector-curvature="0" />
@@ -25742,7 +25742,7 @@
          inkscape:connector-curvature="0"
          id="path8633"
          d="m 100,945.8622 c 0,0 2.25,5.75 23,5.25"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <g
          id="text8635"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.39951611px;line-height:125%;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
@@ -25827,7 +25827,7 @@
          inkscape:connector-curvature="0"
          id="path8714"
          d="m 430.80481,740.88167 c 0,0 -6.36397,-9.8995 8.66205,-10.60661"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <g
          transform="translate(-1.2374369,3.0052038)"
          id="text8716"
@@ -25877,7 +25877,7 @@
          inkscape:connector-curvature="0"
          id="path8750"
          d="m 446.89149,749.36695 9.19238,5.3033"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <g
          id="text8752"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.52730083px;line-height:125%;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
@@ -26110,7 +26110,7 @@
          inkscape:connector-curvature="0"
          id="path8922"
          d="m 590.17678,695.77121 78.53553,0"
-         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.02329886px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#000000;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.02329886px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <g
        id="g9427">
@@ -26288,7 +26288,7 @@
              inkscape:connector-curvature="0" />
         </g>
         <path
-           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 594.25,728.1122 75,0"
            id="path9071"
            inkscape:connector-curvature="0" />
@@ -26564,7 +26564,7 @@
              inkscape:connector-curvature="0" />
         </g>
         <path
-           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 579.82322,773.24608 105,0"
            id="path9308"
            inkscape:connector-curvature="0" />
